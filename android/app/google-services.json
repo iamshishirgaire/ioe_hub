@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782215129652",
+    "project_id": "ioe-hub-cbac8",
+    "storage_bucket": "ioe-hub-cbac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782215129652:android:2ead57ee969202a78a3861",
+        "android_client_info": {
+          "package_name": "com.iamshishirg.ioehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHIxZ4wT5DzmyV5qrHfttQVXLiTTbfN_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

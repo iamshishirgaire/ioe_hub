@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "IOE HUB",
+            "group": "dev",
+            "database": "${workspaceFolder:ioe_hub}/assets/syllabus.db"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:ioe_hub}/assets/app.db",
+            "name": "hha",
+            "group": "dada"
+        }
+    ]
+}
